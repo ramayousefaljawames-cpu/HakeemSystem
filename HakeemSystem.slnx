@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HakeemSystem.Tests/HakeemSystem.Tests.csproj" />
+  <Project Path="HakeemSystem/HakeemSystem.csproj" />
+</Solution>
